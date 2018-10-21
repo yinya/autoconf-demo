@@ -1,0 +1,5 @@
+hello-hello.o: src/hello.c /usr/include/stdc-predef.h include/pr.h
+
+/usr/include/stdc-predef.h:
+
+include/pr.h:
