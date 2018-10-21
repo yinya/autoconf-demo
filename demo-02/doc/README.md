@@ -1,0 +1,2 @@
+ ### succ compile
+ gcc -o testabc test.c /home/parallels/Documents/autoconf/demo-02/src/ModuleA/apple/shell/apple.o -I/home/parallels/Documents/autoconf/demo-02/src/include -I/home/parallels/Documents/autoconf/demo-02/src/ModuleA/apple/include  -L/home/parallels/Documents/autoconf/demo-02/src/lib -lswap -L/usr/lib64/ -lpthread
